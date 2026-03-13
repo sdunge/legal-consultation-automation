@@ -116,14 +116,11 @@ clasp push
 
 ## 📈 스크린샷
 
-### 대시보드
 ![대시보드](screenshots/dashboard.png)
 
 ### 집계 시트
 ![집계](screenshots/sheet.png)
 
-### 구글 폼
-![폼](screenshots/form.png)
 
 ---
 
