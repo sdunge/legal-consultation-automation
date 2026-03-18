@@ -86,13 +86,14 @@ Google Sheets 대시보드 실시간 반영
 ## 📁 파일 구조
 ```
 legal-consultation-automation/
-├── Code.gs                  # Apps Script 메인 코드
-├── appsscript.json          # 프로젝트 설정
-├── README.md                # 프로젝트 설명
-└── screenshots/
-    ├── dashboard.png        # 대시보드 스크린샷
-    ├── form.png             # 구글 폼 화면
-    └── sheet.png           # 집계 시트 화면
+├── README.md                        # 프로젝트 설명
+├── screenshots/
+│   ├── dashboard.png                # 대시보드 스크린샷
+│   └── sheet.png                    # 집계 시트 스크린샷
+└── data/
+    ├── Code.gs                      # Apps Script 메인 코드
+    ├── appsscript.json              # 프로젝트 설정
+    └── 법률상담자동집계.xlsx        # 대시보드 엑셀 파일
 ```
 
 ---
@@ -100,7 +101,7 @@ legal-consultation-automation/
 
 | 파일 | 설명 |
 |------|------|
-| [📊 대시보드 엑셀](법률상담자동집계_final.xlsx) | 집계 시트 + 대시보드 차트 포함 |
+| [📊 대시보드 엑셀](data/법률상담자동집계_final.xlsx) | 집계 시트 + 대시보드 차트 포함 |
 
 ---
 
